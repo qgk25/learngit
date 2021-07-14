@@ -1,4 +1,5 @@
-Git is a versin contron system.
-Git is free software
-i know the true
-Try to fuck fuck Git.what the fuck
+Git is a distributed version control system.
+Git is a free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
+Git.
