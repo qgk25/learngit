@@ -1,3 +1,3 @@
 Git is a versin contron system.
 Git is free software.
-Try to understand Git.
+Try to understand Git.what the fuck
